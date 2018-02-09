@@ -10,7 +10,7 @@
 简单的说，
 * 1 帮助特定投资者完成风险评估，树立理性投资理念。
 * 2 帮助一般用户有提供及时性的便利的数据结果。
-* 3 
+* 3 用户可以在这找到认知的意义和价值分享给更多人
 
 ## 环节3 小程序产品设计
 > 包含功能组件：登录授权、商品展示、订单支付、模板消息
@@ -23,7 +23,9 @@ alt="商品展示" align=center />
 
 
 ## 环节4 小程序功能开发
+
 github地址：git@github.com:jarnar/smart_app.git
+
 github地址：https://github.com/jarnar/smart_app.git
 
 
