@@ -15,6 +15,12 @@
 ## 环节3 小程序产品设计
 > 包含功能组件：登录授权、商品展示、订单支付、模板消息
 
+宣传展示和商品展示示例：
+
+<img src="https://github.com/jarnar/smart_app/blob/master/ad_1.jpg" width="20%" 
+alt="宣传展示" align=center /><img src="https://github.com/jarnar/smart_app/blob/master/show_1.jpg" width="25%" 
+alt="商品展示" align=center />
+
 
 ## 环节4 小程序功能开发
 github地址：git@github.com:jarnar/smart_app.git
